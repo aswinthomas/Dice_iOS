@@ -1,3 +1,11 @@
 Dice App iOS
 
-![Home](home.png)
+<p float="left">
+    <img src="home.png" width="270" />
+    <img src="launch2.png" width="270" />
+    <img src="launch2.png" width="270" />
+</p>
+<p float="left">
+    <img src="launch2.png" width="270" />
+    <img src="launch1.png" width="270" />
+</p>
